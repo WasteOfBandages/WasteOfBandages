@@ -1,4 +1,4 @@
-(https://cdna.artstation.com/p/assets/covers/images/037/375/204/large/dyzi-nlizi-dyzi-nlizi-oceanhd-mp4-20210505-203410718.jpg?1620218106)
+![Banner](https://cdna.artstation.com/p/assets/covers/images/037/375/204/large/dyzi-nlizi-dyzi-nlizi-oceanhd-mp4-20210505-203410718.jpg?1620218106)
 <!--
 **WasteOfBandages/WasteOfBandages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
